@@ -135,14 +135,14 @@ streamlit run TF.py
 # 🌐 Aplicación Desplegada
 
 Link Streamlit Cloud:
-(Pegar aquí tu link)
+([Pegar aquí tu link](https://customer-churn-dashboard-eypljetmuuvyzivk7x9lze.streamlit.app/)))
 
 ---
 
 # 💻 Repositorio GitHub
 
 Link GitHub:
-(Pegar aquí tu repositorio)
+([Pegar aquí tu repositorio](https://github.com/APHMIGUEL/customer-churn-dashboard))
 
 ---
 
